@@ -1,3 +1,6 @@
+##this is my branch
+
+
 ###this program will create the dictionary, it tokenizes words, stems with
 ###nltk and then create correlations between texts with sklearn.
 from nltk.corpus import stopwords
